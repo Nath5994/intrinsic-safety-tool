@@ -8,7 +8,7 @@ This Excel-based tool helps EC&I engineers verify compliance with IEC 60079-14 f
 - Applies 1.5x safety factors for Group IIC circuits
 - Visual pass/fail feedback and embedded macros
 
-> 📄 [Download the latest version here](Proof_of_Intrinsic_Safety_Tool_v1.0.xlsm)
+> 📄 [Download the latest version here](https://github.com/Nath5994/intrinsic-safety-tool/raw/main/Proof_of_Intrinsic_Safety_Tool_v1.0.xlsm)
 
 ---
 
